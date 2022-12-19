@@ -9,7 +9,7 @@ export default function Navbar() {
             <ul className="flex flex-wrap text-sm items-center space-x-10">
                 <span></span>
                 <NavLink className="hover:text-blue-800" to="/">Login</NavLink>
-                <NavLink className="hover:text-blue-800" to="/registration">Registration</NavLink>
+                <NavLink className="hover:text-blue-800" to="/signup">Registration</NavLink>
                 <NavLink className="hover:text-blue-800" to="/changepassword">Change Password</NavLink>
                 <NavLink className="hover:text-blue-800" to="/forgotpassword">Forgot Password</NavLink>
             </ul>

@@ -8,8 +8,8 @@ export default function Login() {
                 <h1 className="text-2xl">Login</h1>
 
                 <div>
-                    <i className="fa-solid fa-user"></i>
-                    <input type="email" className="transition delay-200 focus:border-b-pink-500 border-b-2 border-b-gray-200 text-sm pl-3 h-10 w-60 focus:!outline-none" placeholder="Type your username" />
+                    <i className="fa-solid fa-envelope"></i>
+                    <input type="email" className="transition delay-200 focus:border-b-pink-500 border-b-2 border-b-gray-200 text-sm pl-3 h-10 w-60 focus:!outline-none" placeholder="Type your email" />
                 </div>
 
                 <div>
@@ -33,7 +33,7 @@ export default function Login() {
 
                 <p className="text-sm">
                     <span className="text-gray-500">Don't have an account?</span>
-                    <Link className="pl-4 underline text-blue-400 hover:text-blue-600" to="/registration">Sign up</Link> 
+                    <Link className="pl-4 underline text-blue-400 hover:text-blue-600" to="/signup">Sign up</Link> 
                 </p>
 
             </div>
