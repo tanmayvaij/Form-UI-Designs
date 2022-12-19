@@ -2,6 +2,8 @@
 
 ### Designs of Login, Registration, Forgot Password, Change Password and Email Verification Page.
 
+<br/>
+
 <img src="./public/ss1.png" />
 <img src="./public/ss2.png" />
 <img src="./public/ss3.png" />
