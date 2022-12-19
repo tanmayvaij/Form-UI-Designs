@@ -2,12 +2,12 @@
 
 ### Designs of Login, Registration, Forgot Password, Change Password and Email Verification Page.
 
-## Setup instructions
-
 <br/>
 
+## Setup instructions
+
 ### Requirements:- 
-nodejs
+1> nodejs
 
 <br/>
 
@@ -23,6 +23,8 @@ npm start
 ```
 
 <br/>
+
+## Application preview
 
 <img src="./public/ss1.png" />
 <img src="./public/ss2.png" />
