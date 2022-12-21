@@ -1,10 +1,10 @@
 # Unio Labs Assignment
 
-### Designs of Login, Registration, Forgot Password, Change Password and Email Verification Page.
+### Sample designs of Login, Registration, Forgot Password, Change Password and Email Verification Page.
 
 <br/>
 
-## Setup instructions
+## How to Start ?
 
 ### Requirements:- 
 1> nodejs
