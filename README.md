@@ -1,5 +1,7 @@
 # Form UI Designs
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8e2a01a-622d-41f1-87fb-4816c2641308/deploy-status)](https://app.netlify.com/sites/userinterfaces/deploys)
+
 ### Sample designs of Login, Registration, Forgot Password, Change Password and Email Verification Page.
 
 <br/>
