@@ -9,7 +9,7 @@
 ## How to Start ?
 
 ### Requirements:- 
-1> nodejs
+1. nodejs
 
 <br/>
 
