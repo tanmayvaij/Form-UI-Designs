@@ -10,16 +10,16 @@ import ForgotPassword from "./pages/ForgotPassword";
 import EmailVerification from "./pages/EmailVerification";
 
 export default function App() {
-    return (
-        <BrowserRouter>
-        <Navbar/>
-            <Routes>
-                <Route path="/" element={ <Login/> } />
-                <Route path="/signup" element={ <Registration/> } />
-                <Route path="/changepassword" element={ <ChangePassword/> } />
-                <Route path="/forgotpassword" element={ <ForgotPassword/> } />
-                <Route path="/emailverification" element={ <EmailVerification/> } />
-            </Routes>
-        </BrowserRouter>
-    )
+  return (
+    <BrowserRouter>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Login />} />
+        <Route path="/signup" element={<Registration />} />
+        <Route path="/changepassword" element={<ChangePassword />} />
+        <Route path="/forgotpassword" element={<ForgotPassword />} />
+        <Route path="/emailverification" element={<EmailVerification />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
